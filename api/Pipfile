@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+flask-migrate = "*"
+flask-sqlalchemy = "*"
+flask-cors = "*"
+flask-jwt-extended = "*"
+python-dotenv = "*"
+pymysql = "*"
+requests = "*"
+flask-mail = "*"
+werkzeug = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10.9"
+
+[scripts]
+python src/app.py
