@@ -1,0 +1,3 @@
+Digest: sha256:bc1cadd2667bf9943edb90c7fdc2ee79ca39cc8dc654be86bac331b17a3433fc
+Status: Downloaded newer image for gitpod/workspace-mysql:latest
+docker.io/gitpod/workspace-mysql:latest
